@@ -1,0 +1,9 @@
+{
+  "name": "sw_local_cache",
+  "version": "1.0.0",
+  "description": "Local Cache bases on Service Worker",
+  "main": "serviceWorker.ts",
+  "repository": "https://github.com/Yeap-Technology/sw_local_cache",
+  "author": "Peter DHaiti <peter@yeapinc.com>",
+  "license": "MIT"
+}
